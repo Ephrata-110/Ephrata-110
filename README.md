@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ephrata-110
-- 👀 I’m interested in graphics,programming..
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on projects..eager to exchange ideas and learn from potential collaborators
+- 👋 Hi, I’m @Ephrata-11
 - 📫 How to reach me ...social media accounts(Linkedin,twitter,instagram..)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
